@@ -6,3 +6,5 @@ title: Test front page
 This is a test page.
 
 Hello this is a test.
+
+Content also appears here on the *steveandroulakis* repo
